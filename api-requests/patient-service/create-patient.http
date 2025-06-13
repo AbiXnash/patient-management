@@ -1,0 +1,10 @@
+POST http://localhost:4000/patients
+Content-Type: application/json
+
+{
+    "name": "ABX",
+    "email": "abx@iusevimbtw.com",
+    "address": "neovim",
+    "dateOfBirth": "2004-02-27",
+    "registeredDate": "2025-06-13"
+}
